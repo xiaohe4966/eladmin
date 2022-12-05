@@ -15,10 +15,11 @@
         <module>eladmin-system</module>
         <module>eladmin-tools</module>
         <module>eladmin-generator</module>
+        <module>eladmin-fast/eladmin-fast</module>
     </modules>
 
-    <name>ELADMIN 后台管理</name>
-    <url>https://eladmin.vip</url>
+    <name>EL后台管理</name>
+    <url>https://he4966.cn</url>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
